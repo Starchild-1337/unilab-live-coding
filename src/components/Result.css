@@ -1,0 +1,28 @@
+.result {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.result > div {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.result h2 {
+  text-align: center;
+}
+
+.score {
+  font-size: 30px;
+}
+
+.time {
+  font-size: 36px;
+  margin-top: 1rem;
+}
+
+.restart {
+  margin-top: 10rem;
+  margin-left: 10rem;
+}

@@ -1,0 +1,55 @@
+main {
+  position: relative;
+}
+
+.quiz-span {
+  position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    top: 0;
+    width: 95.45px;
+    height: 35px;
+    background-color: #fff;
+}
+
+.quiz-points {
+  left: 200px;
+}
+
+.quiz-page {
+  right: 200px;
+}
+
+.color {
+  width: 317px;
+  height: 145px;
+}
+
+.quiz {
+  max-width: 510px;
+  margin: 2rem auto 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.colors {
+    list-style: none;
+      width: 100%;
+      margin-top: 2rem;
+}
+
+.btn {
+  align-self: flex-end;
+  margin-top: 2rem;
+  width: 240px;
+  background-color: #747475;
+  border-radius: 8px;
+  color: #EDE8E2;
+  padding: 18px 8px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}

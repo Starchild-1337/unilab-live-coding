@@ -1,0 +1,11 @@
+.answer {
+  padding: 20px;
+  background-color: #fff;
+  width: 100%;
+  margin: 1.5rem 0;
+  cursor: pointer;
+}
+
+.answer.active {
+  border: 1px solid blue;
+}
